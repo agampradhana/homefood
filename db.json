@@ -1,0 +1,46 @@
+[{
+ "id":1,
+ "store_id":1,
+ "store_name":"Depot Sari Rasa",
+ "address":"Jalan Belimbing No. 74 Angantaka, Abiansemal, Badung, Bali",
+ "food_name":"Nasi Goreng Spesial",
+ "food_photos":[
+   {
+     "id_photo":1,
+     "url":"https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe/recipe-image/2016/05/nasi-goreng.jpg"
+   },
+   {
+     "id_photo":2,
+     "url":"https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/quick-spicy-nasi-goreng.jpg"
+   }
+   ],
+   "price":20000,
+   "description":"Save on the washing up with this speedy supper for one, with wholesome ingredients like Chinese cabbage and brown rice, finished with a fried egg.",
+   "no":"6285792030320",
+   "long":"21312312",
+   "lat":"34124124"
+ 
+},
+{
+ "id":2,
+ "store_id":1,
+ "store_name":"Depot Sari Rasa",
+ "address":"Jalan Belimbing No. 74 Angantaka, Abiansemal, Badung, Bali",
+ "food_name":"Rendang Jawa",
+ "food_photos":[
+   {
+     "id_photo":1,
+     "url":"https://selerasa.com/images/daging/rendang-jawa.jpg"
+   },
+   {
+     "id_photo":2,
+     "url":"https://media-cdn.tripadvisor.com/media/photo-s/0f/36/2f/ad/indonesia-home-food-delivery.jpg"
+   }
+   ],
+   "price":30000,
+   "description":"Cantina Asiatica, Sitges Picture: Indonesia Home Food Delivery Sitges Cantina Asiatica - Check out TripAdvisor members' 4,414 candid photos and videos.",
+   "no":"6285792030320",
+   "long":"21312312",
+   "lat":"34124124"
+ 
+}]
